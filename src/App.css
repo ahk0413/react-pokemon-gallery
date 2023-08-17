@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+
+.modal {
+  position: fixed;
+  left: 30%;
+  top: 30%;
+  background: #eee;
+  padding: 20px;
+  width: 300px;
+  border: 1px solid #999;
+}
+
+.tab-ui {
+  width:500px;
+  background: #eee;
+  padding: 1em;
+  margin: 0 auto;
+}
+
+.tab-ui .tab-group a {
+  display: inline-block;
+  border: 1px solid #999;
+  text-decoration: none;
+  padding: 4px 1em;
+}
+
+.tab-ui .contents {
+  border: 4px solid #ccc;
+}
